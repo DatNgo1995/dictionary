@@ -4,16 +4,16 @@ var app = express();
 var bodyParser = require("body-parser")
 var skierTerms = [
     {
-        term: "Rip",
-        defined: "To move at a high rate of speed"
+        term: "Tomorrow",
+        defined: "The best time to do everything you had planned today."
     },
     {
-        term: "Huck",
-        defined: "To throw your body off of something, usually a natural feature like a cliff"
+        term: "Clapping",
+        defined: "Repeatedly high-fiving yourself for someone else's accomplishments"
     },
     {
-        term: "Chowder",
-        defined: "Powder after it has been sufficiently skied"
+        term: "Vegetarian",
+        defined: 'Latin phrase, original meaning: "really bad hunter" '
     }
 ];
 

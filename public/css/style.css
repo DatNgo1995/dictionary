@@ -9,7 +9,7 @@ body, h1 {
 
 h1 {
     margin: 10px 0;
-    color: darkblue;
+    color: rgb(40, 196, 48);
 }
 
 body {
@@ -61,7 +61,8 @@ dt:hover {
 dt {
     font-family: fantasy;
     font-size: 1.5em;
-    color: darkslateblue
+    color: rgb(40, 196, 48);
+    margin: 1rem;
 }
 
 dd {
@@ -71,7 +72,7 @@ dd {
 }
 
 form {
-    background-color: darkslateblue;
+    background-color: rgb(40, 196, 48);;
     color: white;
     padding: 1em;
     width: 80%;
